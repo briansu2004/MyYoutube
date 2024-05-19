@@ -49,14 +49,16 @@ Real-life examples and practice scenarios
 Lifetime access to course materials and updates
 Don't miss out on the opportunity to enhance your interview skills and secure your dream job. Enroll in the "Guru Go Job Interviews" course on Udemy today!
 
-👉 Enroll Now
+👉 Enroll Now https://www.udemy.com/course/guru-golang
 
 Stay Connected:
 
 Subscribe to my channel for more tips and strategies: https://www.youtube.com/@AceITJobInterviewCourses-ok4gn
-Follow me on social media: https://www.youtube.com/@AceITJobInterviewCourses-ok4gn
+
 #JobInterviews #CareerSuccess #InterviewTips #UdemyCourse #InterviewPreparation #CareerDevelopment #InterviewSkills #JobSearch #ProfessionalDevelopment #CareerAdvice #JobSeekers #EmploymentTips #CareerCoaching #SuccessStrategies #InterviewPreparation #CareerDevelopment #InterviewSkills #JobSearch #ProfessionalDevelopment #CareerAdvice #JobSeekers #EmploymentTips #CareerCoaching #SuccessStrategies
 ```
+
+<!-- Follow me on social media: https://www.youtube.com/@AceITJobInterviewCourses-ok4gn -->
 
 <!-- What could be a good description for this video to be uploaded to Youtube
 
