@@ -1,5 +1,20 @@
 # Promo "Guru Go Job Interviews"
 
+- [Info](#info)
+- [Before Uploading](#before-uploading)
+- [YouTube Video Title](#youtube-video-title)
+- [YouTube Video Description](#youtube-video-description)
+- [Playlist](#playlist)
+- [Tags](#tags)
+- [Subtitle](#subtitle)
+- [URL](#url)
+
+## Info
+
+Nail Node.js Job Interviews
+
+https://www.udemy.com/course/nail-nodejs/
+
 ## Before Uploading
 
 Make sure in the correct channel!
@@ -38,6 +53,46 @@ These titles are designed to be more engaging and emphasize the benefits of taki
 
 Welcome to our comprehensive course, "Nail Node.js Job Interviews"! Whether you're a fresh graduate, a career switcher, or a seasoned developer looking to level up, this course is designed to help you land your dream Node.js job.
 
+🔗 Enroll Now on Udemy: https://www.udemy.com/course/nail-nodejs/
+
+In this course, you'll get a sneak peek into what the course offers:
+
+✅ Expert Guidance: Learn from industry professionals with years of experience in Node.js.
+✅ In-Depth Content: Covering all essential topics, from basic concepts to advanced techniques.
+✅ Real Interview Questions: Practice with real-world interview questions and answers.
+✅ Practical Exercises: Hands-on projects to build your confidence and skills.
+✅ Mock Interviews: Get prepared with mock interview sessions to simulate the real experience.
+
+Why Enroll?
+
+- Boost Your Confidence: Face your Node.js interviews with confidence and poise.
+- Enhance Your Skills: Gain the knowledge and skills that top employers are looking for.
+- Get Hired Fast: Stand out from the competition and get hired faster.
+
+🔔 Subscribe to Ny Channel: Don't miss out on more tips and tutorials! https://www.youtube.com/@AceITJobInterviewCourses-ok4gn
+
+📢 Connect with me:
+- Website: https://myudemycourses.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/brian-su-opentowork/
+- GitHub: https://github.com/briansu2004
+
+Testimonials:
+_"This course helped me land my dream job at a top tech company!"_ – Jane D.
+_"The practical exercises and mock interviews were game-changers for me."_ – John S.
+
+Don't wait! Start your journey to becoming a Node.js expert and nailing your next job interview today.
+
+🔗 Enroll Now on Udemy: https://www.udemy.com/course/nail-nodejs/
+
+#NodeJS #JobInterviews #TechCareer #Programming #UdemyCourse #CareerTips #JobInterviews #CareerSuccess #InterviewTips #UdemyCourse #InterviewPreparation #CareerDevelopment #InterviewSkills #JobSearch #ProfessionalDevelopment #CareerAdvice #JobSeekers #EmploymentTips #CareerCoaching #SuccessStrategies #InterviewPreparation #CareerDevelopment #InterviewSkills #JobSearch #ProfessionalDevelopment #CareerAdvice #JobSeekers #EmploymentTips #CareerCoaching #SuccessStrategies
+```
+
+<!-- 
+```text
+🎉 Ready to Ace Your Node.js Job Interviews? 🚀
+
+Welcome to our comprehensive course, "Nail Node.js Job Interviews"! Whether you're a fresh graduate, a career switcher, or a seasoned developer looking to level up, this course is designed to help you land your dream Node.js job.
+
 🔗 **Enroll Now on Udemy: https://www.udemy.com/course/nail-nodejs/**
 
 In this video, you'll get a sneak peek into what our course offers:
@@ -54,7 +109,7 @@ In this video, you'll get a sneak peek into what our course offers:
 - **Enhance Your Skills:** Gain the knowledge and skills that top employers are looking for.
 - **Get Hired Fast:** Stand out from the competition and get hired faster.
 
-🔔 **Subscribe to Our Channel:** Don't miss out on more tips and tutorials! https://www.youtube.com/@AceITJobInterviewCourses-ok4gn
+🔔 **Subscribe to My Channel:** Don't miss out on more tips and tutorials! https://www.youtube.com/@AceITJobInterviewCourses-ok4gn
 
 📢 **Connect with Us:**
 - **Website:** https://myudemycourses.netlify.app/
@@ -70,7 +125,7 @@ Don't wait! Start your journey to becoming a Node.js expert and nailing your nex
 🔗 **Enroll Now on Udemy: https://www.udemy.com/course/nail-nodejs/**
 
 #NodeJS #JobInterviews #TechCareer #Programming #UdemyCourse #CareerTips #JobInterviews #CareerSuccess #InterviewTips #UdemyCourse #InterviewPreparation #CareerDevelopment #InterviewSkills #JobSearch #ProfessionalDevelopment #CareerAdvice #JobSeekers #EmploymentTips #CareerCoaching #SuccessStrategies #InterviewPreparation #CareerDevelopment #InterviewSkills #JobSearch #ProfessionalDevelopment #CareerAdvice #JobSeekers #EmploymentTips #CareerCoaching #SuccessStrategies
-```
+``` -->
 
 <!-- Follow me on social media: https://www.youtube.com/@AceITJobInterviewCourses-ok4gn -->
 
@@ -103,7 +158,7 @@ In this video, you'll get a sneak peek into what our course offers:
 - **Enhance Your Skills:** Gain the knowledge and skills that top employers are looking for.
 - **Get Hired Fast:** Stand out from the competition and get hired faster.
 
-🔔 **Subscribe to Our Channel:** Don't miss out on more tips and tutorials! https://www.youtube.com/@AceITJobInterviewCourses-ok4gn
+🔔 **Subscribe to My Channel:** Don't miss out on more tips and tutorials! https://www.youtube.com/@AceITJobInterviewCourses-ok4gn
 
 📢 **Connect with Us:**
 - **Website:** https://myudemycourses.netlify.app/

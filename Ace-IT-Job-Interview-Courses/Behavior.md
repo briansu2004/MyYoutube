@@ -13,7 +13,7 @@ Mastering Tricky IT Behavior Interview Questions: Your Key to Landing Tech Jobs!
 ```text
 🚀 Ready to Ace Your Next Tech Interview? 🚀
 
-Welcome to the official promo video for the "Tricky IT Behavior Interview Questions" course on Udemy!
+Welcome to the "Tricky IT Behavior Interview Questions" course!
 
 In this dynamic and engaging course, you'll dive deep into the world of IT behavior interview questions, mastering the art of tackling the toughest behavioral scenarios with confidence and finesse. Whether you're a seasoned IT professional or just starting your career in tech, this course is your ultimate guide to navigating the intricacies of behavior-based interviews in the IT industry.
 
@@ -28,7 +28,9 @@ Why Enroll?
 🔐 Unlock the secrets to acing behavior interviews and securing coveted IT positions
 📚 Lifetime access to course materials and updates for continuous learning and growth
 
-Don't miss this opportunity to supercharge your IT interview skills and propel your career to new heights. Enroll in the "Tricky IT Behavior Interview Questions" course on Udemy today!
+Don't miss this opportunity to supercharge your IT interview skills and propel your career to new heights.
+
+Enroll in the "Tricky IT Behavior Interview Questions" course today!
 
 👉 Enroll Now https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx/
 

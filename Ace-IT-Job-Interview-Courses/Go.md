@@ -31,23 +31,25 @@ These titles emphasize the benefits and outcomes of enrolling in your course, ma
 ```text
 Ace Your Next Job Interview with Guru Go Job Interviews!
 
-Description:
-
 Are you ready to land your dream job? Watch this promo video to discover how the "Guru Go Job Interviews" course can transform your interview skills and boost your confidence!
 
-In this video, you'll learn:
+In this course, you'll learn:
 
-The key strategies for answering tough interview questions
-Tips for making a great first impression
-Techniques to showcase your strengths and achievements
-Common interview mistakes and how to avoid them
+* The key strategies for answering tough interview questions
+* Tips for making a great first impression
+* Techniques to showcase your strengths and achievements
+* Common interview mistakes and how to avoid them
+
 Why enroll in the "Guru Go Job Interviews" course?
 
-Expert insights and practical advice
-Step-by-step guidance on preparing for job interviews
-Real-life examples and practice scenarios
-Lifetime access to course materials and updates
-Don't miss out on the opportunity to enhance your interview skills and secure your dream job. Enroll in the "Guru Go Job Interviews" course on Udemy today!
+* Expert insights and practical advice
+* Step-by-step guidance on preparing for job interviews
+* Real-life examples and practice scenarios
+* Lifetime access to course materials and updates
+
+Don't miss out on the opportunity to enhance your interview skills and secure your dream job. 
+
+Enroll in the "Guru Go Job Interviews" course on Udemy today!
 
 👉 Enroll Now https://www.udemy.com/course/guru-golang
 
